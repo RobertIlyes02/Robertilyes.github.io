@@ -1,0 +1,36 @@
+---
+title: "Robertilyes.github.io"
+listing:
+  contents: posts
+  feed: true
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+title-block-banner: true
+---
+
+# Hi, I'm Trevor Baker 👋  
+I'm a **Geospatial Analyst and Actuarial Researcher** specializing in **spatial data science**, **remote sensing**, and **LiDAR analytics**.
+
+This site showcases my work, projects, and insights on spatial modeling, carbon storage, and GIS technologies.
+
+::: {.grid .cards cols=3}
+:::{.card}
+### 🌲 Urban Trees & Carbon Storage  
+Analyzing carbon storage in urban forests using LiDAR and field data.  
+[Read more →](projects/urban-trees.qmd)
+:::
+:::{.card}
+### ❄️ Sea Ice Classification  
+Mapping and modeling sea ice dynamics in the Arctic Northwest Passage.  
+[Read more →](projects/sea-ice.qmd)
+:::
+:::{.card}
+### 🏙️ Spatial Matching  
+Matching 1.6M building footprints to address points with R and sf.  
+[Read more →](projects/building-matching.qmd)
+:::
+:::
