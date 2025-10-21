@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Robertilyes.github.io",
+    "section": "",
+    "text": "Hi, I’m Trevor Baker 👋\nI’m a Geospatial Analyst and Actuarial Researcher specializing in spatial data science, remote sensing, and LiDAR analytics.\nThis site showcases my work, projects, and insights on spatial modeling, carbon storage, and GIS technologies.\n\n\n🌲 Urban Trees & Carbon Storage\nAnalyzing carbon storage in urban forests using LiDAR and field data.\nRead more →\n\n\n❄️ Sea Ice Classification\nMapping and modeling sea ice dynamics in the Arctic Northwest Passage.\nRead more →\n\n\n🏙️ Spatial Matching\nMatching 1.6M building footprints to address points with R and sf.\nRead more →\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\nnews\n\ncode\n\nanalysis\n\n\n\n\n\n\n\n\n\nOct 20, 2025\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nOct 17, 2025\n\n\nTristan O’Malley\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code."
+  }
+]
